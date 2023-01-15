@@ -38,23 +38,6 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> 
 
 - [Me tornando um desenvolvedor .NET - #0](https://dev.to/dvths/me-tornando-um-desenvolvedor-net-0-1n15)
+- [Me tornando um desenvolvedor .NET - #1](https://dev.to/dvths/me-tornando-um-desenvolvedor-net-1-55e2)
 
 ---
-
-### Stats
-
-<table>
-<tr><td>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dvths&count_private=true&show_icons=true&hide=prs&theme=onedark" />
-</a>
-
-</td><td>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvths&layout=compact&theme=onedark" />
-  </a>
-
-</td></tr>
-</table>
