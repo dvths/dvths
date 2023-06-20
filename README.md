@@ -1,7 +1,3 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap" rel="stylesheet"> 
-</head>
-
 <h1 align="center">Olá!</h1>
 
 <p align="center">
