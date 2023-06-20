@@ -1,42 +1,38 @@
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap" rel="stylesheet"> 
+</head>
+
 <h1 align="center">Olá!</h1>
 
 <p align="center">
-  Sou paulistano, atualmente baseado em Pernambuco. Venho de uma carreira freelancer de quase dez anos como fotojornalista e estou concluíndo o curos de  Desenvolvimento de Software na <a href= https://github.com/betrybe>Trybe</a>.
+  Paulistano atualmente baseado em Pernambuco. Fotojornalista dedicado a projetos documentais multidisciplinares no interior nordestino. Minha paixão por tecnologia vem de uma inquietação inata que me impulsiona a buscar novos conhecimentos que construam pontes entre as pessoas. Acredito que a informação e a tecnologia são ferramentas essenciais para alcançarmos uma sociedade mais justa, sustentável e inclusiva. Por essa razão, tenho me especializado no uso da ciência de dados e tecnologias de código aberto para inovação cívica.
 </p>
-<p align="center">
-  Grande parte da minha paixão por tecnologia e da capacidade de escrever código vem de uma inquietação inata que me impulsiona a novos conhecimentos que contribuam para criação de pontes entre as pessoas. Acredito que a informação e tecnologia sejam o meio para esse objetivo. Por isso, tenho me dedicado à especialização em operações back-end: web, arquitetura de software e análise de dados.
-</p>
-<p align="center">
-  <a href=https://www.linkedin.com/in/dvths/>
-    <img alt="Linkedin" src=https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white/>
-  </a>
-</p>
+<div style="display: flex; padding-right: 10px;">
+  <div style="flex: 1;">
+    <p align="right">
+      <a href=https://www.linkedin.com/in/dvths/>
+        <img alt="Linkedin" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <p align="left">
+      <a href=mailto:tiagohs.dev@gmail.com?Subject=Ola%20Tiago>
+        <img alt="Linkedin" src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
+      </a>
+    </p>
+  </div>
+</div>
 
 --- 
 <h3 align="center">Stack principal</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,neovim,vscode,linux,mysql,nodejs,typescript,prisma,jest" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,neovim,python,nodejs,typescript,mysql,mongodb" />
   </a>
 </p>
 
-<!-- &perline=5 -->
----
-
-<h3 align="center">Me aprofundando</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,dotnet,cs,kubernetes,aws" />
-  </a>
-
-----
-
-### Útimos posts
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> 
-
-- [Me tornando um desenvolvedor .NET - #0](https://dev.to/dvths/me-tornando-um-desenvolvedor-net-0-1n15)
-- [Me tornando um desenvolvedor .NET - #1](https://dev.to/dvths/me-tornando-um-desenvolvedor-net-1-55e2)
+## <!-- &perline=5 -->
 
 ---
