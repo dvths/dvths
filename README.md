@@ -1,7 +1,7 @@
 <h1 align="center">Olá!</h1>
 
 <p align="center">
-  Paulistano atualmente baseado em Pernambuco. Fotojornalista dedicado a projetos documentais multidisciplinares no interior nordestino. Minha paixão por tecnologia vem de uma inquietação inata que me impulsiona a buscar novos conhecimentos que construam pontes entre as pessoas. Acredito que a informação e a tecnologia são ferramentas essenciais para alcançarmos uma sociedade mais justa, sustentável e inclusiva. Por essa razão, tenho me especializado no uso da ciência de dados e tecnologias de código aberto para inovação cívica.
+  Sou fotógrafo documental e jornalista de dados. Meu trabalho se concentra na documentação e no levantamento de dados de comunidades sub-representadas, desconectadas das capitais e da mídia tradicional. 
 </p>
 <div style="display: flex;">
   <div>
@@ -20,12 +20,9 @@
   </div>
 </div>
 
---- 
-<h3 align="center">Stack principal</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,neovim,python,nodejs,typescript,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=linux,python" />
   </a>
 </p>
 
